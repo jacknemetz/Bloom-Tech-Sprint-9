@@ -1,0 +1,3 @@
+acme.py (holds your Product and BoxingGlove classes)
+acme_report.py (holds your generate_products() and inventory_report() functions)
+acme_test.py (holds your  –minimum of two– unit tests for the Product class)
